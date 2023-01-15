@@ -1,3 +1,24 @@
+Datos a tener en cuenta
+<br><br>
+Laravel 8 <br>
+PHP 7.4  <br>
+<br>
+ejecutar <br>
+
+npm install y npm run dev
+
+en el .env agregar
+
+GOOGLE_DRIVE_CLIENT_ID=xxxxxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_REFRESH_TOKEN=xxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_FOLDER=xxxxxxxxxxxxxxxxxx (nombre de la carpeta de drive) <br>
+
+<br>
+Tutorial en: https://www.rincondeproyectos.com/2023/01/laravel-backup-google-drive.html
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
